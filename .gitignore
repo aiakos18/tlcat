@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+# qt files
+*.pro
+*.pro.user
+moc_*.h
+moc_*.cpp
